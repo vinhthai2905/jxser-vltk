@@ -1,0 +1,7 @@
+Tong[1]: Th¸iÙCùc
+MemberName	Offer
+JxÙZid	0
+JxÙZidÙ01	0
+JxÙZidÙ02	0
+MemberCount: 3
+------------------------------------------------------------

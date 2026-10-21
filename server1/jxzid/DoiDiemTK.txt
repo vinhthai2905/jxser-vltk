@@ -1,0 +1,3 @@
+[22:01:03 - 21/08/2021] | Nh©n VÀt : JxŸZid | Tµi Kho∂n :(1) | Point: 1	ToExp: 500	LeftPoint: 999999!
+[22:05:07 - 21/08/2021] | Nh©n VÀt : JxŸZid | Tµi Kho∂n :(1) | ßÊi: [1] ßi”m TËng Kim L y [500] ßi”m Kinh Nghi÷m | ßi”m TËng Kim Cﬂn Lπi Lµ : [999998]999998!
+[22:05:57 - 21/08/2021] | Nh©n VÀt : JxŸZid | Tµi Kho∂n :(1) | ßÊi: [1] ßi”m TËng Kim L y [500] ßi”m Kinh Nghi÷m | ßi”m TËng Kim Cﬂn Lπi Lµ : [999997]!

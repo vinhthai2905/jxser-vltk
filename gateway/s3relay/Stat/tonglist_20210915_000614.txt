@@ -1,0 +1,3 @@
+TongCount=1, MemberCount=17, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+TeamJx	JxÙZidÙ0001	3	12240	1	17	0	0	16	1	83436203	12620	3584	0	4068	0	0		0	0

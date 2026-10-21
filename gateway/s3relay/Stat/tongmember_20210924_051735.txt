@@ -1,0 +1,10 @@
+Tong[1]: TESTBANG
+MemberName	Offer
+testtn	0
+MemberCount: 1
+------------------------------------------------------------
+Tong[2]: BQT
+MemberName	Offer
+JxÙZid	0
+MemberCount: 1
+------------------------------------------------------------
