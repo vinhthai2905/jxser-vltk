@@ -1,6 +1,6 @@
 function main()
-    AddItem(6, 1, 4405, 1, 0, 0)
-    Msg2Player("BÂ¹n nhÃ‹n Â®Â­Ã®c mÃ©t 1 <color=yellow> hÃ©p quÂµ bÃ mÃ‹t <color>")
+    AddItem(6, 1, 4401, 1, 0, 0)
+    Msg2Player("B¹n nhËn ®­îc 1  <color=yellow> hép quµ bİ mËt <color>")
 
     return 0
 end
